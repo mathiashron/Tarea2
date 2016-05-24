@@ -1,0 +1,12 @@
+D:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+D:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+G:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.exe.config
+G:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\obj\Debug\Tarea2.exe
+G:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\obj\Debug\Tarea2.pdb
+G:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\obj\Debug\Tarea2.csprojResolveAssemblyReference.cache
+G:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.exe
+G:\Dropbox\Universidad\Tercer Cuatrimestre\Programacion 2\Programaciones\Tarea2\Tarea2\Tarea2\bin\Debug\Tarea2.pdb
